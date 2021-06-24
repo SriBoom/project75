@@ -41,7 +41,7 @@ export default class LoginScreen extends React.Component{
         <KeyboardAvoidingView style = {{alignItems:'center',marginTop:20}}>
         <View>
           <Image
-            source={require("../assets/download.wedp")}
+            source={require("../assets/bedtime_stories.png")}
             style={{width:200, height: 200}}/>
           <Text style={{textAlign: 'center', fontSize: 30}}>Wily</Text>
         </View>
